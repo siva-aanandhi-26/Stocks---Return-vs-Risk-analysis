@@ -65,7 +65,6 @@ Using Python, the following stock market indicators and time-series features wer
 - **Price Change**
 - **Year**
 
-This cleaned and enriched dataset was exported as:
 
 ---
 
@@ -81,7 +80,6 @@ The following KPIs were calculated:
 - **Average Liquidity**
 - **Risk Score**
 
-The final KPI output was saved as:
 
 ---
 
@@ -93,8 +91,6 @@ SQL was used to perform stock-level analytical queries such as:
 - annual volume trends
 - stock-level return and ranking comparisons
 - grouped summaries using aggregate functions and window functions
-
-SQL queries are available in:
 
 
 ---
